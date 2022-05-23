@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://paultu98.github.io</id>
+    <title>Paul Tu&apos;s Github</title>
+    <updated>2022-05-23T21:04:41.862Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://paultu98.github.io"/>
+    <link rel="self" href="https://paultu98.github.io/atom.xml"/>
+    <subtitle>Welcome</subtitle>
+    <logo>https://paultu98.github.io/images/avatar.png</logo>
+    <icon>https://paultu98.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Paul Tu&apos;s Github</rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://paultu98.github.io/post/about-me/</id>
+        <link href="https://paultu98.github.io/post/about-me/">
+        </link>
+        <updated>2022-05-22T14:32:06.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="welcome-to-paul-tus-homepage">Welcome to Paul Tu's Homepage</h1>
+<p>I'm Paul Tu. I'm now a MS Analytics student in USC.</p>
+<p>I got my bachelor's degree of statistics in UIC.</p>
+<p>I am interested and experienced in data analysis, especially machine learning. I can fluently use R, Python, MySQL, SPSS, MS Office. And I tried some programming with MATLAB and Julia. I am familiar with popular used machine learning techniques: Linear Regression, LASSO, Logistic Regression, Tree Models(CART, Random Forest, GBDT), SVM, KNN, K-means, Hierarchical Clustering, PCA, FA, Bagging, Boosting and so on.</p>
+<p>I have posted some of my codes on my <a href="https://github.com/paultu98">Github</a>. Feel free to see the projects listed in this website.</p>
+]]></content>
+    </entry>
+</feed>
